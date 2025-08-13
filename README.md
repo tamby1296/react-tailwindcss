@@ -26,8 +26,4 @@ src
 ├── types/
 │ └── User.ts # TypeScript type definitions for user-related data
 │
-├── utils/
-│ ├── App.tsx # Root application component
-│ ├── index.css # Global styles
-│ ├── main.tsx # Application entry point
-│ └── vite-env.d.ts # TypeScript declarations for Vite
+├── utils/ # Hold reusable util functions
